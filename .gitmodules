@@ -1,0 +1,3 @@
+[submodule "src/protos_sources"]
+	path = src/protos_sources
+	url = https://github.com/pioneers/protos.git

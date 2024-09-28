@@ -1,0 +1,20 @@
+
+##### YDL #####
+# ydl is maintained by us, in https://github.com/pioneers/ydl
+ydl-ipc
+
+##### Protobuf for Runtime stuff #####  
+protobuf
+
+##### Google Sheets #####
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+##### Flask server #####
+flask-socketio
+gevent-websocket
+
+##### Type checking #####
+typeguard == 2.13.*
+
